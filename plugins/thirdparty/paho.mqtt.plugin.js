@@ -10,7 +10,7 @@
 		"display_name": "Paho MQTT",
         "description" : "Receive data from an MQTT server.",
 		"external_scripts" : [
-			"http://archdariondb.altervista.org/freeboard/plugins/thirdparty/mqttws31.js",
+			"https://archdariondb.altervista.org/freeboard/plugins/thirdparty/mqttws31.js",
 		],
 		"settings"    : [
 			{
