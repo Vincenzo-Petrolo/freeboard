@@ -6,8 +6,8 @@
         "display_name": "Interactive Gauge",
         "description" : "Gauge with the ability to send a value as well as recieve one",
         "external_scripts" : [
-            "plugins/thirdparty/raphael.2.1.0.min.js",
-            "plugins/thirdparty/justgage.1.0.1.js"
+            "https://archdariondb.altervista.org/freeboard/plugins/thirdparty/raphael.2.1.0.min.js",
+            "https://archdariondb.altervista.org/freeboard/plugins/thirdparty/justgage.1.0.1.js",
         ],
         settings: [
             {
